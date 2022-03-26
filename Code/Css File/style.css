@@ -1,0 +1,63 @@
+.container{
+    border: pink;
+    text-align: center;
+    margin-top: 23px;
+    /* background-color: hotpink; */
+   
+    font-size: 25px;
+    margin-top: 25px;
+    color: red;
+    font-weight: 800;
+    font-family: serif;
+}
+body{
+    background-color: aliceblue;
+    margin: auto;
+}
+table{
+    background: lightpink;
+    margin: 6px;
+}
+.firsthalf button{
+    background: salmon;
+}
+.plus{
+    background: salmon;
+}
+.minus{
+    background: salmon;
+
+}
+.multiply{
+    background: salmon;
+
+}
+.divide{
+    background: salmon;
+
+}
+input{
+    font-size: 20px;
+    width: 332px;
+    height: 35px;
+    border-radius: 10px;
+    margin-top: 27px;
+    margin-bottom: 16px;
+}
+button{
+    padding: 3px;
+    width: 78px;
+    font-size: 23px;
+    height: 57px;
+    background: antiquewhite;
+    font-size: 20px;
+}
+.calculator{
+    border-radius: 11px;
+    border: 2px solid black;
+    background: grey;
+    display: inline-block;
+    width: 342px;
+    height: 403px;
+    
+}
